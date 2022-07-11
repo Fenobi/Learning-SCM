@@ -5,7 +5,7 @@ sbit fmq=P1^5;
 typedef unsigned int u16;
 typedef unsigned char u8;
 
-//void delay500ms(void)   //?? 0us
+//void delay500ms(void)   //无延迟
 //{
 //    unsigned char a,b,c;
 //    for(c=23;c>0;c--)
